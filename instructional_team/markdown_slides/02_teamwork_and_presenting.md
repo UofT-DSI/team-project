@@ -193,7 +193,7 @@ ___Develop a program that uses data creatively to solve a problem or provide ins
         * Office usage broken down by a variety of factors (team, day of the week, season, etc...).
         * Amount of assigned seating.
         * Amount of flexible seating.
-        * Time spend in meetings (by individual and team).
+        * Time spent in meetings (by individual and team).
     * They **should** know your data sources.
     * They **do not** need to know how you are cleaning your data, what libraries you are using, or your statistical techniques.
         * A technical audience (eg. software architect reviewing your work) would want to know these details.
